@@ -1,0 +1,47 @@
+div {
+	display:inline-block;
+	background:red;
+	width:150px;
+	height:150px;
+	margin:20px 20px 20px 20px;
+}
+
+#outerBox {
+	width: 580px;
+	height: 580px;
+	background: pink;
+}
+
+div.id1 {
+	display: inline-block;
+}
+
+#id2 {
+	display:inline-block;
+	float:right;
+}
+
+#id3 {
+	display:inline-block;
+	float:center;
+}
+
+#id4 {
+	display:inline-block;
+	float:left;
+}
+
+#id5 {
+	bottom:0px;
+	left:0px;
+}
+
+#id6 {
+	bottom:0px;
+	left: 170px;
+}
+
+#id7 (
+	bottom:0px;
+	right:0px;
+}
